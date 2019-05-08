@@ -1,2 +1,4 @@
 This is a mock file which present a stable version
 This is a change in master for cherry-pick
+This is a change for cherry pick
+This fix cherry-pick conflict
